@@ -120,4 +120,9 @@ plt.show()
 ~~~
 ## OUTPUT:
 ![img1](https://github.com/ragulmani936/Experiment-2--Implementation-of-Perceptron/blob/main/img1.png)
+
+
 ![img2](https://github.com/ragulmani936/Experiment-2--Implementation-of-Perceptron/blob/main/img2.png)
+
+## RESULT:
+Thus,a perceptron for classification using Python is executed successfully.
